@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1625649702 source:c:\users\why17\desktop\Нова папка (4)\prj\task_ruzhyn\main.cpp
+	<iostream>
+	"ModulesRuzhyn.h"
+	<clocale>
+	<windows.h>
+	<stdio.h>
+	<string>
+
+1625571594 c:\users\why17\desktop\Нова папка (4)\prj\task_ruzhyn\modulesruzhyn.h
+	<cmath>
+	<iostream>
+	<cmath>
+	<iostream>
+	<cstring>
+	<fstream>
+	<ctime>
+	<bitset>
+

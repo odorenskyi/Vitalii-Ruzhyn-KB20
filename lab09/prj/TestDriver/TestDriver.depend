@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1625652497 source:c:\users\why17\desktop\Нова папка (4)\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesRuzhyn.h"
+	<string>
+	<windows.h>
+
+1625571594 c:\users\why17\desktop\Нова папка (4)\prj\testdriver\modulesruzhyn.h
+	<cmath>
+	<iostream>
+	<cmath>
+	<iostream>
+	<cstring>
+	<fstream>
+	<ctime>
+	<bitset>
+
